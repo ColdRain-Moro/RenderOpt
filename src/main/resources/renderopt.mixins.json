@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "team.redrock.rain.renderopt.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "RenderOpt.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
